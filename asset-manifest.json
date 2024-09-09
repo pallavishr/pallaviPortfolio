@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/pallaviPortfolio/static/css/main.79a31e3f.css",
+    "main.js": "/pallaviPortfolio/static/js/main.cb47ce9b.js",
+    "static/media/dp1.jpg": "/pallaviPortfolio/static/media/dp1.aff958b7f4e893cfad7b.jpg",
+    "static/media/girl3.png": "/pallaviPortfolio/static/media/girl3.a8f4358cc1680594c8cb.png",
+    "static/media/girl1.png": "/pallaviPortfolio/static/media/girl1.4e3b52e95b0410d24cdf.png",
+    "static/media/logo.png": "/pallaviPortfolio/static/media/logo.0cc3bf5ff33384d7bf6d.png",
+    "static/media/girl5.png": "/pallaviPortfolio/static/media/girl5.7de6aa1e115938006b84.png",
+    "static/media/appDesign.png": "/pallaviPortfolio/static/media/appDesign.2e86c7932c149eac85ca.png",
+    "static/media/girl4.jpg": "/pallaviPortfolio/static/media/girl4.021d2f3c5bd4e96bd092.jpg",
+    "static/media/girl6.png": "/pallaviPortfolio/static/media/girl6.4e288ac1f6385b187c5f.png",
+    "index.html": "/pallaviPortfolio/index.html",
+    "main.79a31e3f.css.map": "/pallaviPortfolio/static/css/main.79a31e3f.css.map",
+    "main.cb47ce9b.js.map": "/pallaviPortfolio/static/js/main.cb47ce9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79a31e3f.css",
+    "static/js/main.cb47ce9b.js"
+  ]
+}
